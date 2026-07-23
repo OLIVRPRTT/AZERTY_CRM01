@@ -1,5 +1,6 @@
 # AZERTY CRM
 
+AZERTY CRM only - Version 1
 A comprehensive, dependency-free fake CRM front-end built with plain HTML, CSS and JavaScript.
 
 ## Run it
